@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="release_date">Release Date:</string>
+    <string name="average_vote">Average Vote:</string>
+    <string name="trailer">Trailer:</string>
+    <string name="oh_hi_mark">Mark as Favourite</string>
+    <string name="sortby">sortby</string>
+    <string name="sort_popular">popular</string>
+    <string name="sort_upcoming">upcoming</string>
+    <string name="sort_now_playing">now_playing</string>
+    <string name="sort_top_rated">top_rated</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="now_playing_movies">Now Playing Movies</string>
+    <string name="sorry_not_available">Sorry, this trailer is not available</string>
+    <string name="you_favourited_this">You favourited this movie! :3</string>
+    <string name="vote">%1s/10</string>
+</resources>
